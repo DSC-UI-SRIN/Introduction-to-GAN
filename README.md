@@ -11,11 +11,11 @@ This is the repository for GAN weekend course on data science. <br>
 
 ## Notes
 ### Steps how to use our codes on [Colabs](https://colab.research.google.com/)
-1. Open https://colab.research.google.com/ <br>
-    ![Colabs](https://github.com/DSC-UI-SRIN/GAN/raw/master/others/images/colabs.png)
-2. Open Tab File>Open notebook... or Ctrl+O<br>
-    ![Colabs](https://github.com/DSC-UI-SRIN/GAN/raw/master/others/images/select_file.png)
-3. Select Tab Github, and Type "DSC-UI-SRIN" <br>
-    ![Colabs](https://github.com/DSC-UI-SRIN/GAN/raw/master/others/images/select_git.png)
-4. Select notebook
+#### 1. Open https://colab.research.google.com/ <br>
+![Colabs](https://github.com/DSC-UI-SRIN/GAN/raw/master/others/images/colabs.png)
+#### 2. Open Tab File>Open notebook... or Ctrl+O<br>
+![Colabs](https://github.com/DSC-UI-SRIN/GAN/raw/master/others/images/select_file.png)
+#### 3. Select Tab Github, and Type "DSC-UI-SRIN" <br>
+![Colabs](https://github.com/DSC-UI-SRIN/GAN/raw/master/others/images/select_git.png)
+#### 4. Select notebook
 
