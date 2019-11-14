@@ -5,6 +5,7 @@
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
 - [Wasserstein Divergence for GANs](https://arxiv.org/abs/1712.01026)
+- [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/forum?id=B1QRgziT-)
 
 ### Practice
 - [Colab](https://colab.research.google.com)
