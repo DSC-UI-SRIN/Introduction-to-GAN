@@ -1,15 +1,20 @@
 ### Date : 16 November 2019
 
 ## Links
+
 ### Papers
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
 - [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/forum?id=B1QRgziT-)
 - [Wasserstein Divergence for GANs](https://arxiv.org/abs/1712.01026)
 
+### Article
+- [Efficiency on Spectral Normalization](https://christiancosgrove.com/blog/2018/01/04/spectral-normalization-explained.html)
+
 ### Practice
 - [Colab](https://colab.research.google.com)
 - [Torch nn Library](https://pytorch.org/docs/stable/nn.html)
+
 ## Result
 ### Generated Images 195 epochs
 | WGAN          | WGAN-GP       | WGAN-SN       | WGAN-DIV       |
