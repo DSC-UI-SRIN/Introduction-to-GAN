@@ -13,7 +13,7 @@ Generative models have become biggest milestone toward unsupervised learning cap
 ## Lecturers:
 - **Risman Adnan**, Director, Software R&D, Samsung R&D Indonesia (SRIN)
 - **Muchlisin Adi Saputra**, Lead AI Engineer (Vision and NLU), Samsung R&D Indonesia (SRIN)
-- **Muhamad Iqba**, Master Degree, Computer Science, University of Indonesia (SRIN Intern)
+- **Muhamad Iqbal**, Master Degree, Computer Science, University of Indonesia (SRIN Intern)
 
 ## Syllabus:
 
