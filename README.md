@@ -20,7 +20,7 @@ Generative models have become biggest milestone toward unsupervised learning cap
 - Lecture 1: [Fundamental of GANs](https://github.com/DSC-UI-SRIN/Introduction-to-GAN/tree/master/1%20-%20Fundamental%20of%20GANs) (Lecture Slides, PyTorch Codes)
 - Lecture 2: [Wasserstein GANs](https://github.com/DSC-UI-SRIN/Introduction-to-GAN/tree/master/2%20-%20%20Wasserstein%20GANs) (Lecture Slides, PyTorch Codes) 
 - Lecture 3: [GAN Evaluations](https://github.com/DSC-UI-SRIN/Introduction-to-GAN/tree/master/3%20-%20GAN%20Evaluations) (Lecture Slides, PyTorch Codes)
-- Lecture 4: Applications of GANs (Lecture Slides, PyTorch Codes)
+- Lecture 4: [Applications of GANs](https://github.com/DSC-UI-SRIN/Introduction-to-GAN/tree/master/4%20-%20Applications%20of%20Gans) (Lecture Slides, PyTorch Codes)
 
 
 ## Other Notes
